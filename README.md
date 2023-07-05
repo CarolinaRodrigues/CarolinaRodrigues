@@ -2,7 +2,7 @@ Oii eu sou a Carolina Rodrigues, estudante de Ciência da Computação, atualmen
 
 
 - 🌱 I’m currently learning Python
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: she/her
 - 💬 Ask me about One Piece
 ##
 <div>
