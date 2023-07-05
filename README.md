@@ -1,4 +1,4 @@
-## Oii eu sou a Carolina Rodrigues, estudante de Ciência da Computação, atualmente estudando sobre a área de desenvolvimento Web.
+Oii eu sou a Carolina Rodrigues, estudante de Ciência da Computação, atualmente estudando sobre a área de desenvolvimento Web.
 
 
 - 🌱 I’m currently learning Python
